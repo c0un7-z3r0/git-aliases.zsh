@@ -42,7 +42,7 @@ Assuming you have [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh), you ca
 simply write:
 
 ```bash
-git clone git@github.com:peterhurford/git-aliases.zsh.git ~/.oh-my-zsh/custom/plugins/git-aliases
+git clone git@github.com:c0un7-z3r0/git-aliases.zsh.git ~/.oh-my-zsh/custom/plugins/git-aliases
 echo "plugins+=(git-aliases)" >> ~/.zshrc
 ```
 
@@ -58,7 +58,7 @@ If you use the non-recommended alternative, bash, you can install this directly 
 r `~/.bash_profile`:
 
 ```bash
-curl -s https://raw.githubusercontent.com/peterhurford/git-aliases.zsh/master/git-aliases.plugin.zsh >>
+curl -s https://raw.githubusercontent.com/c0un7-z3r0/git-aliases.zsh/master/git-aliases.plugin.zsh >>
 ~/.bash_profile
 ```
 
